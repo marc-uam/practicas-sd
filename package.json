@@ -1,0 +1,19 @@
+{
+  "name": "practicassd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc-uam/practicas-sd.git"
+  },
+  "author": "Marc y Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marc-uam/practicas-sd/issues"
+  },
+  "homepage": "https://github.com/marc-uam/practicas-sd#readme"
+}
